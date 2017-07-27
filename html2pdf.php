@@ -1,4 +1,5 @@
 <?php
+002
 error_reporting(0);
 
 $auth = $_GET['auth'];
